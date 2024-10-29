@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">App_paises</string>
+    <string name="informacion">Ver más información</string>
+    <string name="tituloSegunda">Paises</string>
+    <string name="italyName">Italia</string>
+    <string name="spainName">España</string>
+    <string name="greeceName">Grecia</string>
+    <string name="germanyName">Alemania</string>
+    <string name="ukName">Reino Unido</string>
+    <string name="usaName">Estados Unidos</string>
+    <string name="italyDesc">Italia es conocida por su rica historia, arte y cultura. Desde el Renacimiento hasta la influencia de la antigua Roma, el país es un centro de arquitectura y museos. Su gastronomía, que incluye pasta, pizza y vino, es famosa en todo el mundo. Ciudades como Roma, Florencia y Venecia atraen a millones de turistas cada año.</string>
+    <string name="spainDesc">España es un país diverso, con múltiples culturas y lenguas. Su historia se refleja en su arquitectura, desde la Alhambra en Granada hasta la Sagrada Familia en Barcelona. La gastronomía es igualmente variada, con platos como la paella y tapas. El flamenco y las fiestas como la Tomatina y la Feria de Abril son parte integral de su cultura.</string>
+    <string name="greeceDesc">Grecia es la cuna de la civilización occidental, conocida por su mitología, filosofía y arte clásico. Las ruinas de la Antigua Grecia, como el Partenón en Atenas, son testigos de su rica historia. Las islas griegas, como Santorini y Creta, ofrecen paisajes impresionantes y una gastronomía deliciosa que incluye platos como la moussaka y el tzatziki.</string>
+    <string name="germanyDesc">Alemania es un país de gran diversidad cultural y económica, conocido por su influencia en la ciencia, la tecnología y la filosofía. Desde los castillos de Baviera hasta las modernas ciudades como Berlín, Alemania combina tradición y modernidad. La Oktoberfest y la Navidad son celebraciones destacadas, y su cocina incluye platos como el schnitzel y la salchicha.</string>
+    <string name="ukDesc">El Reino Unido, compuesto por Inglaterra, Escocia, Gales e Irlanda del Norte, tiene una rica historia y un legado cultural significativo. Londres es un centro global de arte y finanzas. Su literatura, desde Shakespeare hasta autores contemporáneos, es aclamada. La tradición del té, los pubs y festivales como el Glastonbury son parte de su identidad.</string>
+    <string name="usaDesc">Estados Unidos es un país vasto y diverso, con una mezcla de culturas influenciada por la inmigración. Es conocido por su economía dinámica y su liderazgo en tecnología e innovación. Desde los parques nacionales hasta ciudades icónicas como Nueva York y Los Ángeles, ofrece una gran variedad de paisajes y experiencias. La música, el cine y la gastronomía son elementos clave de su cultura popular.</string>
+</resources>
